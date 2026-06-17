@@ -48,7 +48,7 @@ Cada exercício foi implementado de forma independente, priorizando:
 
 ## 🛠️ Tecnologias e Ferramentas
 
-* Linguagem: **C (ANSI C)**
+* Linguagem: **C**
 * Ambiente de desenvolvimento: **Visual Studio Code**
 * Compilador: **GCC**
 
