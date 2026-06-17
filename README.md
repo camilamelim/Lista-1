@@ -1,8 +1,8 @@
-ATP I – Lista de Exercícios em C (Fundamentos de Programação)
+Lista de Exercícios em C (Fundamentos de Programação)
 
 ## 📌 Descrição
 
-Este repositório contém a implementação, em linguagem C, de uma lista de exercícios proposta na disciplina de **Algoritmos e Técnicas de Programação I**.
+Este repositório contém a implementação, em linguagem C, de uma lista de exercícios.
 
 O objetivo principal foi consolidar os **fundamentos da programação estruturada**, com foco em lógica, modelagem de algoritmos e resolução de problemas computacionais.
 
@@ -50,7 +50,6 @@ Cada exercício foi implementado de forma independente, priorizando:
 
 * Linguagem: **C**
 * Ambiente de desenvolvimento: **Visual Studio Code**
-* Compilador: **GCC**
 
 ## 📈 Evolução Técnica
 
